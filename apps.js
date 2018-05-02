@@ -12,7 +12,6 @@ function play(playerChoice) {
 
     //compare the choices to determine winner
 
-
     if (playerChoice == computerChoice) {
         drawResults(playerChoice, computerChoice, "tie");
     
